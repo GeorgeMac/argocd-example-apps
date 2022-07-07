@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  KEY_ONE: value_one
+kind: ConfigMap
+metadata:
+  name: some-configmap
+  namespace: guestbook
